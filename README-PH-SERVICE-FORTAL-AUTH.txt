@@ -1,0 +1,1 @@
+Autorização recebida para criação/configuração de repositório exclusivo PH SERVICE FORTAL. Este arquivo é temporário para validação da integração e será removido após a configuração.
